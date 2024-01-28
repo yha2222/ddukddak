@@ -8,7 +8,10 @@
 
 ## 개발 기간
 2023.11 ~ 2024.01
-[개발기간]
+![개발기간](https://github.com/yha2222/ddukddak/blob/master/WBS.png)
+
+## 메인 프로세스
+![메인 프로세스](https://github.com/yha2222/ddukddak/blob/master/%EB%A9%94%EC%9D%B8%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.png)
 
 ## 주요 기능
 - 공통 : 공지사항, 실시간 채팅, 일정 확인, 환자 관
@@ -44,7 +47,7 @@
 - jsTree : 오더세트(트리구조)
 
 ## ERD
-[ERD]
+![ERD](https://github.com/yha2222/ddukddak/blob/master/(ERD)%EB%9A%9D%EB%94%B1%EC%A0%95%ED%98%95%EC%99%B8%EA%B3%BC.png)
 -----
 
 ## 참고
